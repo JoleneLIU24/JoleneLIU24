@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 ### 🔧 Data Engineering & Workflow
 ![ETL](https://img.shields.io/badge/-ETL-6C757D?style=flat)
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-E97224?style=flat&logo=databricks&logoColor=white)
 ![Power Query](https://img.shields.io/badge/-Power%20Query-4BACC6?style=flat)
 
 ---

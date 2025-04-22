@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/joleneliu24/) | 📧 joleneliu24@gmail.com
 
-
+---
 
 
 ## 📊 Data & Analytics Stack
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
----
+
 
 ### 📊 BI & Visualization
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![Redash](https://img.shields.io/badge/-Redash-E74C3C?style=flat&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
----
+
 
 ### 🧠 Machine Learning & AI
 ![XGBoost](https://img.shields.io/badge/-XGBoost-DD1B16?style=flat)
@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 ![RNN](https://img.shields.io/badge/-RNN-8A2BE2?style=flat)
 ![Transformers](https://img.shields.io/badge/-Transformers-FDA50F?style=flat)
 
----
 
 ### 🔧 Data Engineering & Workflow
 ![ETL](https://img.shields.io/badge/-ETL-6C757D?style=flat)
@@ -70,12 +69,30 @@ Here are some ideas to get you started:
 ![Databricks](https://img.shields.io/badge/-Databricks-E97224?style=flat&logo=databricks&logoColor=white)
 ![Power Query](https://img.shields.io/badge/-Power%20Query-4BACC6?style=flat)
 
----
-
 ### 📐 Statistical & Modeling
 ![Regression](https://img.shields.io/badge/-Regression%20Analysis-0E76A8?style=flat)
 ![Bayesian Modeling](https://img.shields.io/badge/-Bayesian%20Modeling-2F4F4F?style=flat)
 ![Hypothesis Testing](https://img.shields.io/badge/-Hypothesis%20Testing-4682B4?style=flat)
 
 ---
+
+## 📚 **Recent Reading List**
+
+### 1. *The Data Warehouse Toolkit (3rd Edition)*  
+ 
+**Author:** Ralph Kimball, Margy Ross  
+**Rating:** ★★★★☆  
+**Review:** A foundational book on dimensional modeling and data warehouse design. Great for data engineers, analysts, and BI professionals.
+
+
+
+### 2. *The Big Book of Data Engineering (3rd Edition)*  
+
+**Author:** Various Authors (Databricks)  
+**Rating:** ★★★★☆  
+**Review:** A comprehensive overview of modern data engineering practices, covering everything from pipelines to lakehouses.
+
+
+
+
 

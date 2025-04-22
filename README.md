@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 
 🌱 I’m passionate about using data to drive smart, sustainable decisions—and I love helping teams see the big picture through clear, actionable visuals.
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/joleneliu24/)
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/joleneliu24/) | 📧 joleneliu24@gmail.com
+

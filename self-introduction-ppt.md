@@ -1,7 +1,8 @@
 # 自我介绍 PPT 模板
 
 > **使用说明：** 将所有 `你的姓名`、`你的学校` 等占位符替换为你的真实信息即可。  
-> 本文件可导入 [Slidev](https://sli.dev/)、[Marp](https://marp.app/) 等工具直接生成 PPT，也可手动复制到 PowerPoint / Keynote / WPS 中使用。
+> 本文件可导入 [Slidev](https://sli.dev/)、[Marp](https://marp.app/) 等工具直接生成 PPT，也可手动复制到 PowerPoint / Keynote / WPS 中使用。  
+> **一键导出 `.pptx`：** 在仓库根目录运行 `bash /home/runner/work/JoleneLIU24/JoleneLIU24/JoleneLIU24/JoleneLIU24/export-pptx.sh`。
 
 ---
 

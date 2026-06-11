@@ -31,6 +31,16 @@ Here are some ideas to get you started:
 
 ---
 
+## 🖼️ 一键导出自我介绍 PPTX
+
+在仓库根目录执行以下命令即可将 `self-introduction-ppt.md` 导出为 `self-introduction.pptx`：
+
+```bash
+bash /home/runner/work/JoleneLIU24/JoleneLIU24/JoleneLIU24/JoleneLIU24/export-pptx.sh
+```
+
+> 需要本机已安装 Node.js（包含 `npm/npx`）。
+
 
 ## 📊 Data & Analytics Stack
 
@@ -91,7 +101,6 @@ Here are some ideas to get you started:
 **Author:** Various Authors (Databricks)  
 **Rating:** ★★★★☆  
 **Review:** A comprehensive overview of modern data engineering practices, covering everything from pipelines to lakehouses.
-
 
 
 
